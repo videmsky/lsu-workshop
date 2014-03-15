@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+#map {
+	height: 500px;
+	width: 100%;
+}
+
+.leaflet-popup-close-button {
+	display: none;
+}
+
+
+.leaflet-popup-tip {
+	display: none;
+}
+
+.leaflet-popup-content {
+	color: #0033ff;
+	font-size: 1.75em;
+}
+
+
+
+
+
+
+
+
+
+

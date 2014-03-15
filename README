@@ -1,0 +1,4 @@
+Hello LSU! This is LA's realtime stream guage network
+==============
+
+*Using your computer's shell (command line), cd into the root directory and start the python server: # python -m SimpleHTTPServer 3000
