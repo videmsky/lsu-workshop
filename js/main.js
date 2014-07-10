@@ -1,3 +1,5 @@
+// main javascript file
+
 (function() {
 
 	var map = L.map('map', {
